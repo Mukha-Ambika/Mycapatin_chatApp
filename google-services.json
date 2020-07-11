@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970648594299",
+    "firebase_url": "https://mycapatinchatapp.firebaseio.com",
+    "project_id": "mycapatinchatapp",
+    "storage_bucket": "mycapatinchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970648594299:android:c3c21477cba504d50abfde",
+        "android_client_info": {
+          "package_name": "com.example.mycapatin_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970648594299-7ri4vgv920pgs0kbgqbfjbclnfvil5re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzdJzwRayVHR7ck3Iz54-oa2GPqmG06YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970648594299-7ri4vgv920pgs0kbgqbfjbclnfvil5re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
